@@ -210,5 +210,4 @@ local_s3/
 data/processed/
 data/raw/
 data/interim/
-models/model.pkl/
-models/vectorizer.pkl/
+models/

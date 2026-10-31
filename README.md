@@ -38,7 +38,7 @@ Welcome to the Capstone Project! This repository demonstrates a full-stack MLOps
 - **Testing**: pytest
 - **Visualization**: Matplotlib, Seaborn
 - **Logging**: Custom logger
-- **CI/CD**: GitHub Actions (suggested)
+- **CI/CD**: GitHub Actions 
 
 ---
 
